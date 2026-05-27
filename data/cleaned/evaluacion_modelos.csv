@@ -1,0 +1,5 @@
+Modelo,Alpha,MAE,R²
+LinearRegression,-,4950.82,0.5593
+Ridge,0.1,4950.82,0.5593
+Ridge,1.0,4950.8,0.5593
+Ridge,10.0,4950.59,0.5593
