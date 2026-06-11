@@ -1,6 +1,6 @@
-# IA-EVALUACION-2-REGRESION
-Repositorio para la segunda evaluación de inteligencia artificial
-# Evaluación 1
+# IA-EVALUACIONES
+Repositorio para las evaluaciones de inteligencia artificial
+# Integrantes
 
 **Integrante 1:** Alan Jean Franco Fica Contreras
 
@@ -15,10 +15,10 @@ Repositorio para la segunda evaluación de inteligencia artificial
 **Correo Electrónico integrante 3:** kevin.romero2201@alumnos.ubiobio.cl
 
 **Fecha de Creación:** mayo de 2026  
-**Versión:** 1.0  
+**Versión:** 3.0  
 
 ---
 
 ## Descripción
 
-Este repositorio contiene el desarrollo de la evaluación 2 de la asignatura Inteligencia Artificial de la carrera de Ingeniería Civil en Informática de la Universidad del Bio Bio, sede Concepción.
+Este repositorio contiene el desarrollo de todas las evaluaciones de la asignatura Inteligencia Artificial de la carrera de Ingeniería Civil en Informática de la Universidad del Bio Bio, sede Concepción.
